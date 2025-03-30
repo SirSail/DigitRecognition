@@ -6,8 +6,10 @@ https://github.com/SirSail/DigitRecognition.git
 
 ## 2.Requirements
  a)Python 3.8+
+ 
  b)PC faster than toaster
-c)Libraries: numpy, matplotlib, PySimpleGUI
+ 
+ c)Libraries: numpy, matplotlib, PySimpleGUI
 
 ## 3. Running the Application
 ### a)To start the application, run:
